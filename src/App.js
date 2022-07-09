@@ -1,9 +1,10 @@
 import React  from "react";
+import Header from "./components/Layouts/Header";
 function App() {
   return (
-    <div>
-      <h2>Lets get started!</h2>
-    </div>
+    <React.Fragment>
+    <Header/>.
+    </React.Fragment>
   );
 }
 
